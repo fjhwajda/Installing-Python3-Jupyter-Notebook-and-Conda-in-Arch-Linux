@@ -89,7 +89,8 @@ In my Case Conda
 <img width="1043" height="422" alt="Screenshot_20260220_120512" src="https://github.com/user-attachments/assets/9f988dbb-687d-4d57-9c6c-148d52c35f96" />
 
 
-## Close verything
+### Fix
+Close verything
 
 Run in Terminal:
 ```bash
@@ -105,7 +106,7 @@ code --uninstall-extension ms-toolsai.jupyter
 code --install-extension ms-toolsai.jupyter
 ```
 
-Every time I opened Code the kernel was chosen.
+DONE: Every time I opened Code the kernel was chosen.
 
 !If you have to swap between kernels frequently (dont know why you would do that)
 then you most likely want to create a .desktop launcher so it uses the command automatically:
