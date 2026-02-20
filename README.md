@@ -1,4 +1,4 @@
-# Installing Python 3 Jupyter Notebook and Conda on Arch Linux
+# Fix: Jupyter Kernel Stuck Searching in VS Code on Arch Linux
 A guide to get Jupyter notebooks working in Visual Studio Code or Code OSS on Arch Linux and to fix the common issue where the notebook UI gets stuck searching for a kernel.
 
 ### Prerequisites
