@@ -149,7 +149,7 @@ jupyter kernelspec list
 jupyter kernelspec remove anaconda-py310
 ```
 
-(If you Exoirted it) Restore Enviroment
+If you exported it, restore the environment:
 ```bash
 conda env create -f ~/py310-environment.yml
 ```
