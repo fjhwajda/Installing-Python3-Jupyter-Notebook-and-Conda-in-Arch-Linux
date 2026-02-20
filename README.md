@@ -130,6 +130,7 @@ Warning: enabling proposed VS Code APIs is intended for extension development an
 
 
 ### Removing Kernels
+If you want to remove kernels in case you dont need them anymore:
 
 (Optional) Export environment before deleting:
 ```bash
@@ -150,7 +151,7 @@ jupyter kernelspec list
 jupyter kernelspec remove anaconda-py310
 ```
 
-If you exported it, restore the environment:
+If you exported it and want to restore the environment:
 ```bash
 conda env create -f ~/py310-environment.yml
 ```
