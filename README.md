@@ -1,6 +1,6 @@
 # Fix: Jupyter Kernel endless Searching in VS Code on Arch Linux
 A guide to get Jupyter notebooks working in Visual Studio Code or Code OSS on Arch Linux and to fix the common issue where the notebook UI gets stuck searching for a kernel.
-###### If you have everything installed sktip to the FIX part
+#### If you have everything installed sktip to the FIX part
 
 ### Prerequisites
 - Operating system: Arch Linux.
