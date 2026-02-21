@@ -1,5 +1,6 @@
 # Fix: Jupyter Kernel endless Searching in VS Code on Arch Linux
 A guide to get Jupyter notebooks working in Visual Studio Code or Code OSS on Arch Linux and to fix the common issue where the notebook UI gets stuck searching for a kernel.
+###### If you have everything installed sktip to the FIX part
 
 ### Prerequisites
 - Operating system: Arch Linux.
@@ -106,7 +107,8 @@ code --uninstall-extension ms-toolsai.jupyter
 code --install-extension ms-toolsai.jupyter
 ```
 
-DONE: Every time I opened Code the kernel was chosen.
+Every time I opened Code the kernel was chosen.
+### DONE
 
 !If you have to swap between kernels frequently (dont know why you would do that)
 then you most likely want to create a .desktop launcher so it uses the command automatically:
