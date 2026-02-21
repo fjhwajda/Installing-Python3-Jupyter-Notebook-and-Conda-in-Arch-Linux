@@ -107,7 +107,7 @@ code --uninstall-extension ms-toolsai.jupyter
 code --install-extension ms-toolsai.jupyter
 ```
 
-Every time I opened Code the kernel was chosen.
+Every time I opened Code the kernel was chosen. no Terminal needed.
 ### DONE
 
 !If you have to swap between kernels frequently (dont know why you would do that)
